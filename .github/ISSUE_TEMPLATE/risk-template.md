@@ -8,15 +8,22 @@ assignees: SenorMonito
 ---
 
 ## Type
-[e.g. Adoption]
+! Leave blank for now
 
 ## Probability
-[High|Med|Low]
+Choose
+:red_circle:  High
+:orange_circle:  Medium
+:green_circle:  Low
 
 ## Impact
-[High|Med|Low]
+Choose
+:red_circle: High
+:orange_circle: Medium
+:green_circle: Low
 
 ## Proximity
+Choose
 [<1wk|<1M|<6wks|<2M|>2M]
 
 ## Description
